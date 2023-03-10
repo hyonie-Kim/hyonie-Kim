@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
+<img src="https://img.shields.io/badge/React-white?style=for-the-badge&logo=React&logoColor=F7DF1E">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB">
 
 <!--
 **hyonie-Kim/hyonie-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
