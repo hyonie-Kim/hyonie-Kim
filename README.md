@@ -1,7 +1,10 @@
 ### Hi there 👋
 
+
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=React&logoColor=61DAFB">
+<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+![tailwindcss-logotype](https://user-images.githubusercontent.com/107483199/224366074-dcb9d796-afc6-4346-b20f-8b6e9faa35ac.svg)
 
 <!--
 **hyonie-Kim/hyonie-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
