@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-##### 💻학습중인 언어⌨🖱
+##### 💻사용 언어⌨🖱
 #### ✨Front-end
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
