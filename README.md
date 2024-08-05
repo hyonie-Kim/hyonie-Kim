@@ -1,6 +1,6 @@
-### Hi there 👋
+### 안녕하세요. 소프트웨어 개발자 김세현입니다 👋
 
-##### 💻사용 언어⌨🖱
+## Tech Stack 💻
 #### ✨Front-end
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
@@ -31,8 +31,11 @@
 <p>
  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-</p>  
+</p>
 
+## Currently Learning 🚀
+ ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+ ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-%2305121C.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 
 <!--
 **hyonie-Kim/hyonie-Kim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
