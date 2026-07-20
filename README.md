@@ -1,11 +1,11 @@
 # 👋 안녕하세요!
 
-5년 차 풀스택 개발자 김세현입니다.
+5년 차 풀스택 개발자 **김세현(Hyonie)** 입니다.
 
 WordPress, Next.js, ASP.NET, NestJS 기반의 웹 서비스를 개발하며
 사용자 경험과 유지보수성을 고려한 개발을 지향합니다.
 
-## About Me
+## 🚀 About Me
 
 - 💻 5년 차 Full Stack Developer
 - 🏥 글로벌 의료기관 웹사이트 개발 및 운영
@@ -13,10 +13,18 @@ WordPress, Next.js, ASP.NET, NestJS 기반의 웹 서비스를 개발하며
 - 🚀 Next.js · ASP.NET · NestJS
 - ☁ AWS Lightsail · CloudFront · Apache
 - 🎯 SEO · API Integration · Admin Development
-  
-## Tech Stack
 
-#### ✨ Front-end
+## 💼 Current Focus
+
+- 🏥 Developing & Operating Global Medical Websites
+- 🤖 AI Search (RAG)
+- 📈 SEO & GEO Optimization
+- ⚙️ WordPress Admin Development
+- ☁️ AWS Infrastructure
+  
+## 🛠 Tech Stack
+
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=React&logoColor=61DAFB"/>
@@ -28,7 +36,7 @@ WordPress, Next.js, ASP.NET, NestJS 기반의 웹 서비스를 개발하며
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
 </p>
 
-#### ✨ Back-end
+### Backend
 <p>
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white"/>
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=.NET&logoColor=white"/>
@@ -36,7 +44,7 @@ WordPress, Next.js, ASP.NET, NestJS 기반의 웹 서비스를 개발하며
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/>
 </p>
 
-#### ✨ Database & Infrastructure
+### Database & Infrastructure
 <p>
   <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
@@ -44,7 +52,8 @@ WordPress, Next.js, ASP.NET, NestJS 기반의 웹 서비스를 개발하며
   <img src="https://img.shields.io/badge/Windows Server-0078D4?style=flat-square&logo=Windows&logoColor=white"/>
 </p>
 
-#### ✨ Tools & Deployment
+
+### Tools
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
@@ -53,9 +62,9 @@ WordPress, Next.js, ASP.NET, NestJS 기반의 웹 서비스를 개발하며
 </p>
 
 
-## Contact 
-- **Email**: dev.hyonie@gmail.com
+## 📫 Contact
+- 📧 Email : dev.hyonie@gmail.com
 
 ---
 
-*"기능 구현을 넘어 업무의 구조와 흐름을 개선하는 개발자로 성장하고 있습니다"*
+*"기능 구현을 넘어 서비스의 구조와 사용자 경험을 고민하는 개발자입니다."*
