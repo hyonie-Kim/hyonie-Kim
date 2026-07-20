@@ -1,11 +1,19 @@
-### 안녕하세요. 프론트엔드부터 백엔드까지 경험한 웹 개발자 김세현입니다 👋
+# 👋 안녕하세요!
+
+5년 차 풀스택 개발자 김세현입니다.
+
+WordPress, Next.js, ASP.NET, NestJS 기반의 웹 서비스를 개발하며
+사용자 경험과 유지보수성을 고려한 개발을 지향합니다.
 
 ## About Me
-- **경력**: 2년차 웹 개발자
-- **현재**: 통신·렌탈 중견기업에서 풀스택 개발자로 근무
-- **이전**: 헬스케어 스타트업에서 프론트엔드 개발자로 근무
-- **개발 철학**: "로직의 흐름을 이해하고 구조적으로 개선하는 개발"
 
+- 💻 5년 차 Full Stack Developer
+- 🏥 글로벌 의료기관 웹사이트 개발 및 운영
+- ⚙ WordPress Custom Development
+- 🚀 Next.js · ASP.NET · NestJS
+- ☁ AWS Lightsail · CloudFront · Apache
+- 🎯 SEO · API Integration · Admin Development
+  
 ## Tech Stack
 
 #### ✨ Front-end
