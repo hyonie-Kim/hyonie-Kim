@@ -7,20 +7,20 @@ WordPress, Next.js, ASP.NET, NestJS 기반의 웹 서비스를 개발하며
 
 ## 🚀 About Me
 
-- 💻 5년 차 Full Stack Developer
+- 💻 5년 차 풀스택 개발자
 - 🏥 글로벌 의료기관 웹사이트 개발 및 운영
-- ⚙ WordPress Custom Development
-- 🚀 Next.js · ASP.NET · NestJS
-- ☁ AWS Lightsail · CloudFront · Apache
-- 🎯 SEO · API Integration · Admin Development
+- ⚙️ WordPress 커스텀 개발
+- 🚀 Next.js · ASP.NET · NestJS 기반 웹 서비스 개발
+- ☁️ AWS Lightsail · CloudFront · Apache 운영
+- 🎯 SEO · API 연동 · 관리자 페이지 개발
 
 ## 💼 Current Focus
 
-- 🏥 Developing & Operating Global Medical Websites
-- 🤖 AI Search (RAG)
-- 📈 SEO & GEO Optimization
-- ⚙️ WordPress Admin Development
-- ☁️ AWS Infrastructure
+- 🏥 글로벌 의료기관 웹사이트 개발 및 운영
+- ⚙️ WordPress 커스텀 관리자 기능 개발
+- 🚀 Next.js · ASP.NET · NestJS 기반 웹 서비스 개발
+- 🤖 AI Search(RAG) 및 API 연동
+- ☁️ AWS Lightsail · CloudFront · Apache 운영
   
 ## 🛠 Tech Stack
 
