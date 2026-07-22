@@ -7,7 +7,7 @@ WordPress, Next.js, ASP.NET, NestJS 기반의 웹 서비스를 개발하며
 
 ## 🚀 About Me
 
-- 💻 4년 차 풀스택 개발자
+- 💻 3년 차 풀스택 개발자
 - 🏥 글로벌 의료기관 웹사이트 개발 및 운영
 - ⚙️ WordPress 커스텀 개발
 - 🚀 Next.js · ASP.NET · NestJS 기반 웹 서비스 개발
