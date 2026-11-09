@@ -63,5 +63,3 @@ WordPress, Next.js, ASP.NET, NestJS 기반의 웹 서비스를 개발하며
 - 📧 Email : dev.hyonie@gmail.com
 
 ---
-
-*"기능 구현을 넘어 서비스의 구조와 사용자 경험을 고민하는 개발자입니다."*
